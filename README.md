@@ -7,4 +7,4 @@
 
 *The article speaks about different opinions on how to address this divide of definition. It has some questionable takes and comments but I believe it to be used to clarify the points on how broad the term front-end developer can be used. Essentially, the rapid evolution of the web industry has made it so the meanings of words "front-end developer" or "fullstack developer" doesn't match what's being asked.*
 
-*comment haha*
+*Mark Edit: comment haha*
