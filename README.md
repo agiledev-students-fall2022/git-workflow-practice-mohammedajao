@@ -1,6 +1,5 @@
 # Git Practice
 
-**Article:**
 [Article Link](https://css-tricks.com/the-great-divide/)
 
 **Description:**
