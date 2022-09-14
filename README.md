@@ -19,5 +19,5 @@
 
 **Comment:**
 I found this article to be very interesting.  The comment by Jina Anne was really relatable, since a few years ago I found myself trying to prepare to become a "front-end developer", which at that time I thought meant learning HTML and CSS.  However, soon enough I was looking up JavaScript tutorials.  Meanwhile today, I consider myself to be incapable of being a front-end developer due to the divide expressed in this article.  However, this article did give me some hope and inspiration as it insisted that even with the divide, this does not vindicate us from doing our jobs well. 
-*Comment by Misha Seo*  
+*Comment by Misha Seo (ms11568)*  
 >>>>>>> 964c86f (My comment on the linked article)
